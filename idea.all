@@ -1,0 +1,9 @@
+=> 
+[32m#<Idea:0x00007fe47ec54a08[0m
+ id: [34m[1m1[0m,
+ description: [31m[1m"[0m[31mThis is the greatest idea ever[0m[31m[1m"[0m,
+ author: [31m[1m"[0m[31mMe[0m[31m[1m"[0m,
+ created_at:
+  Thu, 14 Mar 2024 10:45:40.560221000 UTC +00:00,
+ updated_at:
+  Thu, 14 Mar 2024 10:45:40.560221000 UTC +00:00[32m>[0m
