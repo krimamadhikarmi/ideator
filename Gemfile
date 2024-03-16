@@ -4,6 +4,8 @@ ruby "3.3.0"
 
 gem 'simple_form', '~> 5.3'
 
+gem 'pagy', '~> 6.2'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.2"
 
